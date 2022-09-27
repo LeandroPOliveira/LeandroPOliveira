@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as an Accountant and Python developer part-time, looking for a transition of my career to be a full-time programmer.
 - 🌱 I’m currently learning HTML, CSS and Javascript.
-- 📫 How to reach me: leandro_lpo@hotmail.com
+- 📫 How to reach me: leandro_lpo2@hotmail.com
 
 <div align="left">
   <a href="https://github.com/LeandroPOliveira">
