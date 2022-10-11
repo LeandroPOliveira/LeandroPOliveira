@@ -22,4 +22,5 @@
 ##
 <div>
   <a href="https://www.linkedin.com/in/leandrop-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://cursos.alura.com.br/vitrinedev/leandro-lpo2" target="_blank"><img src="https://img.shields.io/badge/vitrine.dev-07283F?style=for-the-badge" alt="Vitrine.Dev, meu portfólio na Alura"></a>
 </div>
