@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as an Accountant and Python developer part-time, looking for a transition of my career to be a full-time programmer.
+- 👨‍🎓 I have a bachelor's degree in Accounting and i'm currently working as an Accountant and Python developer part time, looking for career change to be a full time programmer.
 - 🌱 I’m currently learning HTML, CSS and Javascript.
+- 🚴 Passionate for cycling, adventure and mountain enthusiast. 
 - 📫 How to reach me: leandro_lpo2@hotmail.com
 
 <div align="left">
