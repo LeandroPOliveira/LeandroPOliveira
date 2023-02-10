@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 👨‍🎓 I have a bachelor's degree in Accounting and i'm currently working as an Accountant and Python developer part time, looking for career change to be a full time programmer.
-- 🌱 I’m currently learning HTML, CSS and Javascript.
+- 🌱 I’m currently learning Flask and Front-end basics (HTML, CSS and Javascript).
 - 🚴 Passionate for cycling, adventure and mountain enthusiast. 
 - 📫 How to reach me: leandro_lpo2@hotmail.com
-
+- 
 <div align="left">
   <a href="https://github.com/LeandroPOliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroPOliveira&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
@@ -23,5 +23,6 @@
 ##
 <div>
   <a href="https://www.linkedin.com/in/leandrop-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://portfolio-leandro.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-0A182E?style=for-the-badge" alt="Meu website"></a>
   <a href="https://cursos.alura.com.br/vitrinedev/leandro-lpo2" target="_blank"><img src="https://img.shields.io/badge/vitrine.dev-07283F?style=for-the-badge" alt="Vitrine.Dev, meu portfólio na Alura"></a>
 </div>
