@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👨‍🎓 I have a bachelor's degree in Accounting and i'm currently working as an Accountant and Python developer part time, looking for career change to be a full time programmer.
-- 🌱 I’m currently learning Flask and Front-end basics (HTML, CSS and Javascript).
+- 🌱 I’m currently learning Django and Front-end basics (HTML, CSS and Javascript).
 - 🚴 Passionate for cycling, adventure and mountain enthusiast. 
 - 📫 How to reach me: leandro_lpo2@hotmail.com
 - 
