@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning Django and Front-end basics (HTML, CSS and Javascript).
 - 🚴 Passionate for cycling, adventure and mountain enthusiast. 
 - 📫 How to reach me: leandro_lpo2@hotmail.com
-- 
+  
 <div align="left">
   <a href="https://github.com/LeandroPOliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroPOliveira&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroPOliveira&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroPOliveira&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 
